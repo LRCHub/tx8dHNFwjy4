@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "other side.",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-25T17:32:13.293867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Other Side (From \"Trolls World Tour\") [Oliver Heldens Remix]",
+      "artist": "SZA feat. Justin Timberlake & Oliver Heldens",
+      "has_synced": true,
+      "path": "select/01_The_Other_Side_(From__Trolls_World_Tour_)_[Oliver_Heldens_Remix]_SZA_feat._Justin_Timberlake_&_Oliver_Heldens.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Other Side",
+      "artist": "Wynonna feat. Waxahatchee",
+      "has_synced": true,
+      "path": "select/02_Other_Side_Wynonna_feat._Waxahatchee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Other Side",
+      "artist": "Wynonna",
+      "has_synced": true,
+      "path": "select/03_Other_Side_Wynonna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Other Side Of The Door",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_The_Other_Side_Of_The_Door_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Other Side of Love",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/05_The_Other_Side_of_Love_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Other Side of Love (Remixed Extended Version)",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/06_The_Other_Side_of_Love_(Remixed_Extended_Version)_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Other Side Of Love (Re-Mixed Extended Version)",
+      "artist": "Yazoo",
+      "has_synced": false,
+      "path": "select/07_The_Other_Side_Of_Love_(Re-Mixed_Extended_Version)_Yazoo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Other Side of Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/08_The_Other_Side_of_Mt._Heart_Attack_Liars.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Other Side Of Mt. Heart Attack",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/09_Other_Side_Of_Mt._Heart_Attack_Liars.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Other Side of You",
+      "artist": "The Mighty Lemon Drops",
+      "has_synced": false,
+      "path": "select/10_The_Other_Side_of_You_The_Mighty_Lemon_Drops.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Other Side of You (Live)",
+      "artist": "The Mighty Lemon Drops",
+      "has_synced": false,
+      "path": "select/11_The_Other_Side_of_You_(Live)_The_Mighty_Lemon_Drops.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Other Side",
+      "artist": "Clannad",
+      "has_synced": false,
+      "path": "select/12_The_Other_Side_Clannad.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "other side.",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_other_side._Brent_Faiyaz.txt"
+    }
+  ]
+}
